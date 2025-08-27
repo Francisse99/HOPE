@@ -18,7 +18,7 @@ function check(event) {
   }
 }
 function link() {
-  window.location.href = "../pages/accueil.html";
+  window.location.href = "pages/accueil.html";
 }
 function cheked() {
   let message = "BIENVENUE LARAH";
@@ -57,3 +57,4 @@ function inputmdp(e) {
     document.getElementById("mdp").style.border = "1px solid red";
   }
 }
+
