@@ -113,6 +113,7 @@ main div {
 }
 .vid {
   width: 80%;
+  height: 300px;
 }
 .nav ul {
   width: 100%;
@@ -202,3 +203,4 @@ footer p{
     width: 100%;
   }
 }
+
